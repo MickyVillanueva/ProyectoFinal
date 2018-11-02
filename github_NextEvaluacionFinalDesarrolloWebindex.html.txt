@@ -1,0 +1,6 @@
+Recursos Necesarios
+Carpetas Audios, Imagenes y Videos.
+Archivos HTML
+Index.html
+Educacion.html
+Experiencia.html
